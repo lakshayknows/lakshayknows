@@ -1,49 +1,73 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h1 align="center">Hi there, I'm Lakshay 👋</h1>
+<p align="center">
+  <i>Aspiring Data Scientist • Machine Learning Enthusiast • Python • Founder @ FromScratch Analytics • Intern @ Prodigy Infotech </i>
+</p>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Aspiring+Data+Scientist+from+Delhi+University;Exploring+the+world+of+Data+Science+and+AI!" style="padding: 5px;">
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+### 👨‍💻 About Me:
+- 📘 Studying **Commerce Honours** at **Delhi University**
+- 👨‍🏫 Skillset: **Machine Learning, Mathematics, Python, Scikit-learn, Pandas, Numpy**
+- 💡 I’m always open to collaborating on data science projects and competitions.
+- 🎓 Founder of **FromScratch Analytics**, a team dedicated to data science competitions.
+- 💬 Ask me about **Data Science, Python**, or **Poetry**
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+### 🔧 Technologies & Tools:
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-3766AB?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+### 📈 GitHub Stats:
 
-###
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lakshayknows&show_icons=true&hide_border=true&count_private=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshayknows&exclude_repo=PortfolioSite&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
+</p>
 
-<br clear="both">
+---
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+### 🌟 My Projects:
+Here are a few highlights from my project portfolio:
 
-###
+- [**Decision Tree Classifier - PCA and Model Evaluation**](https://github.com/lakshayknows/ds_prodigy_infotech/tree/task-3)                                                               
+    This project demonstrates the use of a **Decision Tree Classifier** for **classification tasks.**
+
+- [**Loan Approval Prediction**](https://github.com/lakshayknows/loan-approval-prediction)  
+  Built a predictive model using **Python, Scikit-learn** achieving an R² score of **0.9534**.
+
+- [**Student Performance Analysis**](https://github.com/lakshayknows/Student_Performance)  
+  Analyzed the effect of study habits and parental involvement on student scores. Key tools: **Pandas, Numpy, Scikit-Learn**.
+
+---
+
+### 📊 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lakshayknows&theme=react-dark&hide_border=true&area=true)
+
+---
+
+### 💬 Connect with Me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/lakshayhanda"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:handalakshay302@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <i>“In data, we find the answers to the questions we didn’t know we had.”</i>
+</p>
