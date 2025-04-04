@@ -58,9 +58,14 @@ Here are a few highlights from my project portfolio:
 
 ### Watch my contribution graph get eaten by the snake :snake:
 
-<!-- platane/snk works, it just puts it on a new branch -->
-![mishmanners snake gif]https://github.com/lakshayknows/lakshayknows/blob/main/.github/workflow/Snake.yml)
 ---
+
+### 🐍 Watch My Contributions Snake Around!
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lakshayknows/lakshayknows/output/assets/snake.svg" alt="Snake animation" />
+</p>
+
 
 ### 💬 Connect with Me:
 
