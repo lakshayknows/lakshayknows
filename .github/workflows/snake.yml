@@ -2,17 +2,17 @@ name: generate snake animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # every day at midnight
+    - cron: "0 0 * * *" # Runs every day at midnight
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout the repo
+      - name: Checkout the repository
         uses: actions/checkout@v3
 
-      - name: Generate snake animation
+      - name: Generate the snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
