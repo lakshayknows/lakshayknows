@@ -55,8 +55,11 @@ Here are a few highlights from my project portfolio:
 ---
 
 ### 📊 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lakshayknows&theme=react-dark&hide_border=true&area=true)
 
+### Watch my contribution graph get eaten by the snake :snake:
+
+<!-- platane/snk works, it just puts it on a new branch -->
+![mishmanners snake gif]https://github.com/lakshayknows/lakshayknows/blob/main/.github/workflow/Snake.yml)
 ---
 
 ### 💬 Connect with Me:
