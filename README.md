@@ -60,9 +60,10 @@ Here are a few highlights from my project portfolio:
 
 ---
 
-### 🐍 Watch My Contributions Snake Around!
+### Watch My Contributions Snake Around!
 
-![Snake animation](https://raw.githubusercontent.com/lakshayknows/lakshayknows/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lakshayknows/lakshayknows/blob/output/github-contribution-grid-snake.svg)
+
 
 
 ### 💬 Connect with Me:
