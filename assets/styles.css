@@ -1,0 +1,6 @@
+#daily-quote {
+  font-size: 18px;
+  font-family: 'Courier New', Courier, monospace;
+  color: #fca311;
+  transition: opacity 0.5s ease-in-out;
+}
