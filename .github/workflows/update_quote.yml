@@ -19,6 +19,8 @@ jobs:
       - name: Push Snake to Profile
         uses: crazy-max/ghaction-github-pages@v4
         with:
+          color_snake: '#0A66C2'  # (LinkedIn blue)
+          color_dots: '#212121,#212121,#212121,#0A66C2,#0A66C2'  # black & blue mix
           target_branch: output
           build_dir: dist
         env:
