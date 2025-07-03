@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Lakshay 👋</h1>
+<h1 align="center">Hi there, I'm Lakshay </h1>
 <p align="center">
   <i>Aspiring Data Scientist • Machine Learning Enthusiast • Python • Founder @ FromScratch Analytics • Intern @ Prodigy Infotech </i>
 </p>
@@ -11,11 +11,10 @@
 ---
 
 ### 👨‍💻 About Me:
-- 📘 Studying **Commerce Honours** at **Delhi University**
-- 👨‍🏫 Skillset: **Machine Learning, Mathematics, Python, Scikit-learn, Pandas, Numpy**
-- 💡 I’m always open to collaborating on data science projects and competitions.
-- 🎓 Founder of **FromScratch Analytics**, a team dedicated to data science competitions.
-- 💬 Ask me about **Data Science, Python**, or **Poetry**
+- Studying **Commerce Honours** at **Delhi University**
+- Skillset: **Machine Learning, Mathematics, Python, Scikit-learn, Pandas, Numpy**
+- I’m always open to collaborating on data science projects and competitions.
+- Ask me about **Data Science, Python**, or **Poetry**
 
 ---
 
@@ -39,33 +38,11 @@
 </p>
 
 ---
-
-### 🌟 My Projects:
-Here are a few highlights from my project portfolio:
-
-- [**Decision Tree Classifier - PCA and Model Evaluation**](https://github.com/lakshayknows/ds_prodigy_infotech/tree/task-3)                                                               
-    This project demonstrates the use of a **Decision Tree Classifier** for **classification tasks.**
-
-- [**Loan Approval Prediction**](https://github.com/lakshayknows/loan-approval-prediction)  
-  Built a predictive model using **Python, Scikit-learn** achieving an R² score of **0.9534**.
-
-- [**Student Performance Analysis**](https://github.com/lakshayknows/Student_Performance)  
-  Analyzed the effect of study habits and parental involvement on student scores. Key tools: **Pandas, Numpy, Scikit-Learn**.
-
----
-
-### 📊 Contribution Graph
-
-### Watch my contribution graph get eaten by the snake :snake:
-
----
-
 ### Watch My Contributions Snake Around!
 
-<picture>
-  <img alt="Snake animation" src="https://github.com/lakshayknows/lakshayknows/blob/output/github-contribution-grid-snake.svg">
-</picture>
-
+<p align="center">
+  <img src="https://github.com/lakshayknows/lakshayknows/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 
 
