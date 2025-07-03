@@ -23,31 +23,19 @@ const Lakshay = {
   loves: ["Python", ML", "Poetry", "Collaboration"],
   lookingFor: "Innovative Data Projects",
 };
-🎓 B.Com (Hons.) at Delhi University
 
-🧠 Skills: Machine Learning • Python • Statistics • Data Viz
-
-🧪 Founder of FromScratch Analytics
-
-✍️ Writing free-verse poems when I’m not debugging models
-
-💬 Ask me about data, poetry, or life without semicolons
+```
 
 ⚒️ Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,git,jupyter,tensorflow,vscode,github&theme=light" /> </p>
-💡 Currently Exploring
-🔎 Deep Learning (CNNs, RNNs, Transformers)
-
-📊 Time Series Forecasting
-
-🌐 Streamlit + Flask for deployment
-
-🧠 Prompt Engineering for LLMs
 
 🐍 Watch My GitHub Contributions Snake!
 <p align="center"> <img src="https://github.com/lakshayknows/lakshayknows/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake dark"/> </p>
+
 ✨ Quote of the Day
 <p align="center"> <code id="daily-quote">"Loading a fresh dose of inspiration..."</code> </p>
+
 🌐 Connect with Me
-<p align="center"> <a href="https://linkedin.com/in/lakshayhanda"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:connect.lakshay@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p>
+<p align="center"> <a href="https://linkedin.com/in/lakshayhanda"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:connect.lakshay@outlook.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+
 <p align="center"> <i>“In data, we find the answers to the questions we didn’t know we had.”</i> </p> ```
