@@ -1,55 +1,83 @@
-<h1 align="center">Hi, I'm Lakshay Handa </h1>
+<h1 align="center">Hi there, I'm Lakshay 👋</h1>
+<p align="center">
+  <i>Aspiring Data Scientist • Machine Learning Enthusiast • Python • Founder @ FromScratch Analytics • Intern @ Prodigy Infotech </i>
+</p>
 
 <p align="center">
-  Solving Climate Problems with Data & AI | Data scientist | Kaggle Top 15% | Python
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Aspiring+Data+Scientist+from+Delhi+University;Exploring+the+world+of+Data+Science+and+AI!" style="padding: 5px;">
+</p>
+
+
+---
+
+### 👨‍💻 About Me:
+- 📘 Studying **Commerce Honours** at **Delhi University**
+- 👨‍🏫 Skillset: **Machine Learning, Mathematics, Python, Scikit-learn, Pandas, Numpy**
+- 💡 I’m always open to collaborating on data science projects and competitions.
+- 🎓 Founder of **FromScratch Analytics**, a team dedicated to data science competitions.
+- 💬 Ask me about **Data Science, Python**, or **Poetry**
+
+---
+
+### 🔧 Technologies & Tools:
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-3766AB?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-### About Me
-
-- Based in Delhi | Undergraduate @ Delhi University (B.Com Hons)
-- Passionate about solving real-world problems using AI & Machine Learning
-- Skilled in Python, Scikit-learn, TensorFlow, Plotly, SQL
-- Currently building: spam detection, fraud detection & more (see projects below)
-- Ranked top 15% across 15,000+ participants in multiple ML competitions
-
----
-
-### Technical Highlights
-
-- **Languages/Tools:** Python, SQL, C++, Git, Jupyter, VS Code, Google Colab  
-- **Core Skills:** EDA, Hypothesis Testing, Model Evaluation, MLOps  
-- **ML Expertise:** Classification, Clustering, Regression, NLP, Deep Learning  
-- **Frameworks:** NumPy, pandas, Scikit-Learn, TensorFlow, Plotly  
-
----
-
-
-### GitHub Contributions Snake
+### 📈 GitHub Stats:
 
 <p align="center">
-  <img src="https://github.com/lakshayknows/lakshayknows/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake animation" />
-</p>
-
-> *Subtle blue/black themed — clean & classy*
-
----
-
-### Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/lakshayhanda">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:connect.lakshay@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://lakshayknows.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=notion&logoColor=white"/>
-  </a>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lakshayknows&show_icons=true&hide_border=true&count_private=true&theme=radical" style="display: inline-block;"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshayknows&exclude_repo=PortfolioSite&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical" style="display: inline-block;"/>
 </p>
 
 ---
 
-<p align="center"><i>"Let the data do the talking."</i></p>
+### 🌟 My Projects:
+Here are a few highlights from my project portfolio:
+
+- [**Decision Tree Classifier - PCA and Model Evaluation**](https://github.com/lakshayknows/ds_prodigy_infotech/tree/task-3)                                                               
+    This project demonstrates the use of a **Decision Tree Classifier** for **classification tasks.**
+
+- [**Loan Approval Prediction**](https://github.com/lakshayknows/loan-approval-prediction)  
+  Built a predictive model using **Python, Scikit-learn** achieving an R² score of **0.9534**.
+
+- [**Student Performance Analysis**](https://github.com/lakshayknows/Student_Performance)  
+  Analyzed the effect of study habits and parental involvement on student scores. Key tools: **Pandas, Numpy, Scikit-Learn**.
+
+---
+
+### 📊 Contribution Graph
+
+### Watch my contribution graph get eaten by the snake :snake:
+
+---
+
+### Watch My Contributions Snake Around!
+
+<picture>
+  <img alt="Snake animation" src="https://github.com/lakshayknows/lakshayknows/blob/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+
+
+### 💬 Connect with Me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/lakshayhanda"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:connect.lakshay@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <i>“In data, we find the answers to the questions we didn’t know we had.”</i>
+</p>
