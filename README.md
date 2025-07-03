@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Lakshay </h1>
 <p align="center">
-  <i>Aspiring Data Scientist • Machine Learning Enthusiast • Python • Founder @ FromScratch Analytics • Intern @ Prodigy Infotech </i>
+  <i> Solving Climate Problems with Data & AI | Data scientist | Kaggle Top 15% | Python </i>
 </p>
 
 <p align="center">
