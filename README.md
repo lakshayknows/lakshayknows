@@ -7,17 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Aspiring+AI+Engineer+from+Delhi+University;Exploring+the+world+of+Data+Science+and+AI!" style="padding: 5px;">
 </p>
 
-
----
-
-### 👨‍💻 About Me:
-- Studying **Commerce Honours** at **Delhi University**
-- Skillset: **Machine Learning, Mathematics, Python, Scikit-learn, Pandas, Numpy**
-- I’m always open to collaborating on data science projects and competitions.
-- Ask me about **Data Science, Python**, or **Poetry**
-
----
-
 ### 🔧 Technologies & Tools:
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
