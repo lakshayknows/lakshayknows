@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm Lakshay </h1>
 <p align="center">
-  <i> Solving Climate Problems with Data & AI | Data scientist | Kaggle Top 15% | Python </i>
+  <i> Solving Climate Problems with Data & AI | AI Engineer | NLP | GenAI | Kaggle Top 15% | Python </i>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Aspiring+Data+Scientist+from+Delhi+University;Exploring+the+world+of+Data+Science+and+AI!" style="padding: 5px;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Aspiring+AI+Engineer+from+Delhi+University;Exploring+the+world+of+Data+Science+and+AI!" style="padding: 5px;">
 </p>
 
 
