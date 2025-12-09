@@ -37,9 +37,9 @@ Currently going deeper into **MLOps, evaluation frameworks, and deployment at sc
 ### 📊 GitHub Stats 
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lakshayknows&show_icons=true&theme=radical&hide_border=true&cache_seconds=7200"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshayknows&layout=compact&theme=radical&hide_border=true&cache_seconds=7200"/>
+  <img src="https://raw.githubusercontent.com/lakshayknows/lakshayknows/main/metrics.svg" width="95%">
 </p>
+
 
 ---
 
