@@ -1,17 +1,62 @@
-name: GitHub Metrics
+name: Generate Aesthetic GitHub Metrics
 
 on:
-  schedule: [{cron: "0 */24 * * *"}]
+  schedule:
+    - cron: "0 */24 * * *"   # updates daily
   workflow_dispatch:
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          base: header, activity, community, repositories, metadata
-          plugin_lines: yes
+
+          # -----------------------------
+          #      MAIN VISUAL MODULES 
+          # -----------------------------
+          base: header, activity, community, repositories
+          config_timezone: Asia/Kolkata
           plugin_traffic: yes
+
+          # -----------------------------
+          #    AESTHETIC UI THEMING 
+          # -----------------------------
+          template: classic
+          config_order: base.header, isocalendar, languages, stars, repositories, followup, activity
+
+          # -----------------------------
+          #  CONTRIBUTION HEATMAP 🔥
+          # -----------------------------
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # -----------------------------
+          # LANGUAGE + TECH STACK 🌈
+          # -----------------------------
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_colors: rainbow
+          plugin_languages_details: percentage
+          plugin_languages_limit: 12
+
+          # -----------------------------
+          #   FOLLOWERS + STAR COUNT ⭐
+          # -----------------------------
+          plugin_followup: yes
+          plugin_followup_sections: repositories
+
+          # -----------------------------
+          # REPO METRICS + INSIGHTS 📈
+          # -----------------------------
+          plugin_repositories: yes
+          plugin_repositories_pinned: 3
+
+          # -----------------------------
+          # PR + CODE STATS ⚡
+          # -----------------------------
+          plugin_achievements: yes
+          plugin_achievements_secrets: true
+          plugin_achievements_threshold: B
