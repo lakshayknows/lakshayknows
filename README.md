@@ -1,50 +1,63 @@
-<h1 align="center">Hi there, I'm Lakshay </h1>
-<p align="center">
-  <i> Solving Climate Problems with Data & AI | AI Engineer | NLP | GenAI | Kaggle Top 15% | Python </i>
-</p>
+<h1 align="center">Hi, I'm Lakshay 👋</h1>
+<p align="center"><i>AI Engineer • NLP & GenAI • 4th Place HackFest '25 • Kaggle Top 15%</i></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Aspiring+AI+Engineer+from+Delhi+University;Exploring+the+world+of+Data+Science+and+AI!" style="padding: 5px;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+NLP+and+GenAI+Developer;Building+Scalable+ML+and+LLM+Systems;Turning+Data+into+Decisions+%F0%9F%94%AC" />
 </p>
+
+---
+
+### 🧠 About Me
+
+I build systems that don’t just predict — they *understand*.  
+Focused on **NLP, LLM pipelines & scalable AI**, with experience in fraud detection, sentiment systems, and real-time voice tutoring.  
+Currently going deeper into **MLOps, evaluation frameworks, and deployment at scale.**
+
+---
+
+### 🧩 Tech Stack
 
 <p align="left"> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Matplotlib-3766AB?style=for-the-badge&logo=plotly&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=LangChain&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>  
-</p>
-
-
-### 📈 GitHub Stats:
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lakshayknows&show_icons=true&hide_border=true&count_private=true&theme=radical" style="display: inline-block;"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshayknows&exclude_repo=PortfolioSite&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical" style="display: inline-block;"/>
-</p>
-
----
-### Watch My Contributions Snake Around!
-
-<p align="center">
-  <img src="https://github.com/lakshayknows/lakshayknows/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
-
-
-### 💬 Connect with Me:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/lakshayhanda"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:connect.lakshay@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2361E6?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005E86?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 ---
 
+### 📊 GitHub Stats 
+
 <p align="center">
-  <i>“In data, we find the answers to the questions we didn’t know we had.”</i>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lakshayknows&show_icons=true&theme=radical&hide_border=true&cache_seconds=7200"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshayknows&layout=compact&theme=radical&hide_border=true&cache_seconds=7200"/>
 </p>
+
+---
+
+### 🐍 Watch My Contributions Grow
+
+<p align="center">
+  <img src="https://github.com/lakshayknows/lakshayknows/blob/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+📍 Delhi, India  
+🔗 [LinkedIn](https://www.linkedin.com/in/lakshayhanda)  
+🐙 [GitHub](https://github.com/lakshayknows)  
+📩 connect.lakshay@outlook.com  
+
+---
+
+<p align="center"><i>In data we don’t find answers — we create them.</i></p>
