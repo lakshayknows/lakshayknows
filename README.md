@@ -33,11 +33,12 @@ Currently going deeper into **MLOps, evaluation frameworks, and deployment at sc
 </p>
 
 ---
-### 📊 GitHub Metrics Dashboard
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lakshayknows/lakshayknows/main/metrics.svg" width="80%">
-</p>
+### 📈 GitHub Stats:
 
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lakshayknows&show_icons=true&hide_border=true&count_private=true&theme=radical" style="display: inline-block;"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshayknows&exclude_repo=PortfolioSite&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical" style="display: inline-block;"/>
+</p>
 
 ---
 
@@ -57,5 +58,3 @@ Currently going deeper into **MLOps, evaluation frameworks, and deployment at sc
 📩 connect.lakshay@outlook.com  
 
 ---
-
-<p align="center"><i>In data we don’t find answers — we create them.</i></p>
