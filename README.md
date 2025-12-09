@@ -33,11 +33,9 @@ Currently going deeper into **MLOps, evaluation frameworks, and deployment at sc
 </p>
 
 ---
-
 ### 📊 GitHub Metrics Dashboard
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lakshayknows/lakshayknows/main/metrics.svg" width="96%">
+  <img src="https://raw.githubusercontent.com/lakshayknows/lakshayknows/main/metrics.svg" width="80%">
 </p>
 
 
