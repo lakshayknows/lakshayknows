@@ -1,4 +1,9 @@
 <h1 align="center">Hi, I'm Lakshay 👋</h1>
+<p align="center">
+  <img src="https://img.shields.io/github/stars/lakshayknows/lakshayknows?style=for-the-badge&logo=github&label=Stars"/>
+  <img src="https://img.shields.io/github/followers/lakshayknows?label=Followers&style=for-the-badge"/>
+</p>
+
 <p align="center"><i>AI Engineer • NLP & GenAI • 4th Place HackFest '25 • Kaggle Top 15%</i></p>
 
 <p align="center">
@@ -30,14 +35,6 @@ Currently going deeper into **MLOps, evaluation frameworks, and deployment at sc
   <img src="https://img.shields.io/badge/Docker-2361E6?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005E86?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
----
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/lakshayknows/lakshayknows?style=for-the-badge&logo=github&label=Stars"/>
-  <img src="https://img.shields.io/github/followers/lakshayknows?label=Followers&style=for-the-badge"/>
 </p>
 
 ---
