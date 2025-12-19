@@ -7,7 +7,7 @@
 <p align="center"><i>AI Engineer • NLP & GenAI • 4th Place HackFest '25 • Kaggle Top 15%</i></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+NLP+and+GenAI+Developer;Building+Scalable+ML+and+LLM+Systems;Turning+Data+into+Decisions+%F0%9F%94%AC" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+NLP+and+GenAI+Developer;Building+Scalable+ML+and+LLM+Systems;Tu[...]
 </p>
 
 ---
@@ -42,6 +42,19 @@ Currently going deeper into **MLOps, evaluation frameworks, and deployment at sc
 
 <p align="center">
   <img src="https://github.com/lakshayknows/lakshayknows/blob/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img alt="Lakshay's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=lakshayknows&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshayknows&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshayknows&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
