@@ -1,62 +1,89 @@
-<h1 align="center">Hi, I'm Lakshay 👋</h1>
-<p align="center">
-  <img src="https://img.shields.io/github/followers/lakshayknows?label=Followers&style=for-the-badge"/>
-</p>
+# Lakshay Handa
+```md
+$ whoami
+lakshay@ai:~$ ai_engineer && rust_apprentice && systems_curiosity
+```
 
-<p align="center"><i>AI Engineer • NLP & GenAI • 4th Place HackFest '25 • Kaggle Top 15%</i></p>
+## About
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+NLP+and+GenAI+Developer;Building+Scalable+ML+and+LLM+Systems;Turning+Data+into+Decisions+%F0%9F%94%AC" />
-</p>
+Started in Commerce where numbers tell stories and decisions have consequences.
+Moved into AI where models predict, fail, and occasionally surprise you.
+
+I build **intelligent systems with restraint**:
+less buzzwords, more intent.
+Currently focused on **LLMs, NLP pipelines, Rust fundamentals**, and learning how systems behave when scaled, stressed, or misunderstood.
+
+```rust
+fn main() {
+    let direction = vec![
+        "LLM pipelines & evaluation",
+        "NLP systems with real-world constraints",
+        "Rust for correctness-first engineering",
+        "AI informed by business intuition"
+    ];
+
+    println!("Currently exploring: {:?}", direction);
+}
+```
+
+## Stack
+
+**Languages**
+
+```
+├── Python        # daily companion
+├── Rust          # learning honesty
+├── SQL           # quiet backbone
+└── Bash          # necessary sharp edges
+```
+
+**AI / ML**
+
+```
+ml/
+├── PyTorch
+├── TensorFlow
+├── Hugging Face
+├── Scikit-learn
+└── LangChain / LangGraph
+```
+
+**Systems & Infra**
+
+```
+systems/
+├── Docker
+├── Git
+├── Linux
+├── CI/CD
+└── Cloud (GCP fundamentals)
+```
+
+**Interests**
+
+```
+thinking/
+├── LLM evaluation & failure modes
+├── MLOps fundamentals
+├── system design clarity
+└── building things that survive contact with reality
+```
+
+## Contact
+
+```json
+{
+  "location": "Delhi, India",
+  "email": "connect.lakshay@outlook.com",
+  "linkedin": "linkedin.com/in/lakshayhanda",
+  "x": "x.com/lakshayknows",
+  "status": "learning in public, building with intent"
+}
+```
 
 ---
 
-### 🧠 About Me
-
-I build systems that don’t just predict — they *understand*.  
-Focused on **NLP, LLM pipelines & scalable AI**, with experience in fraud detection, sentiment systems, and real-time voice tutoring.  
-Currently going deeper into **MLOps, evaluation frameworks, and deployment at scale.**
-
----
-
-### 🧩 Tech Stack
-
-<p align="left"> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2361E6?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005E86?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
---- 
-
-### 📊 GitHub Stats 
-<p align="center"> 
-  <img alt="Lakshay's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=lakshayknows&show_icons=true&theme=tokyonight&hide_border=true" /> <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshayknows&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> 
-</p> 
-
----
-### 🐍 Watch My Contributions Grow
-
-<p align="center">
-  <img src="https://github.com/lakshayknows/lakshayknows/blob/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-### 🌐 Connect With Me
-
-📍 Delhi, India  
-🔗 [LinkedIn](https://www.linkedin.com/in/lakshayhanda)  
-🐙 [GitHub](https://github.com/lakshayknows)  
-📩 connect.lakshay@outlook.com  
-
----
+```
+Last login: $(date)
+lakshay@ai:~$ █
+```
