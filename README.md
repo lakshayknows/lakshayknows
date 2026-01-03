@@ -1,13 +1,13 @@
 # Lakshay Handa
-```md
+````md
 $ whoami
 lakshay@ai:~$ ai_engineer && rust_apprentice && systems_curiosity
-```
+````
 
 ## About
 
-Started in Commerce where numbers tell stories and decisions have consequences.
-Moved into AI where models predict, fail, and occasionally surprise you.
+Started in Commerce, where numbers tell stories and decisions have consequences.
+Moved into AI, where models predict, fail, and occasionally surprise you.
 
 I build **intelligent systems with restraint**:
 less buzzwords, more intent.
@@ -37,11 +37,16 @@ fn main() {
 └── Bash          # necessary sharp edges
 ```
 
+**Data**
+
+```
+├── MongoDB       # flexible, when structure bends
+```
+
 **AI / ML**
 
 ```
 ml/
-├── PyTorch
 ├── TensorFlow
 ├── Hugging Face
 ├── Scikit-learn
@@ -54,9 +59,8 @@ ml/
 systems/
 ├── Docker
 ├── Git
-├── Linux
 ├── CI/CD
-└── Cloud (GCP fundamentals)
+└── Cloud (GCP)
 ```
 
 **Interests**
@@ -67,6 +71,24 @@ thinking/
 ├── MLOps fundamentals
 ├── system design clarity
 └── building things that survive contact with reality
+```
+
+## Easter Eggs
+
+```bash
+# ~/.bashrc (selectively honest)
+
+alias think="journalctl --since 'today' | grep insight"
+alias ship="git commit -m 'works on my machine' && git push"
+alias rustacean="cargo check && cargo clippy"
+alias thoughts="open https://x.com/lakshayknows"
+```
+
+```txt
+# Things currently breaking (intentionally):
+- assumptions
+- over-engineered abstractions
+- the idea that learning should be linear
 ```
 
 ## Contact
