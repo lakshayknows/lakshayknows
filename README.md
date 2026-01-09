@@ -1,51 +1,72 @@
 # Lakshay Handa
-````md
-$ whoami
-lakshay@ai:~$ ai_engineer && rust_apprentice && systems_curiosity
+
+```rust
+// build.rs
+
+fn main() {
+    println!("cargo:rerun-if-changed=assumptions");
+}
 ````
 
 ## About
 
-Started in Commerce, where numbers tell stories and decisions have consequences.
-Moved into AI, where models predict, fail, and occasionally surprise you.
+Started in **Commerce**, where inputs, incentives, and outcomes must reconcile.
+Moved into **AI**, where the same discipline is often optional.
 
-I build **intelligent systems with restraint**:
-less buzzwords, more intent.
-Currently focused on **LLMs, NLP pipelines, Rust fundamentals**, and learning how systems behave when scaled, stressed, or misunderstood.
+I care about **systems that compile cleanly and fail loudly**.
+Less magic. More intent.
+
+Currently focused on **LLMs, NLP systems, Rust fundamentals**, and how ideas behave when they are **built, shipped, and maintained**.
+
+---
+
+## Build Configuration
 
 ```rust
-fn main() {
-    let direction = vec![
-        "LLM pipelines & evaluation",
-        "NLP systems with real-world constraints",
-        "Rust for correctness-first engineering",
-        "AI informed by business intuition"
-    ];
+pub struct Build {
+    pub stages: Vec<&'static str>,
+}
 
-    println!("Currently exploring: {:?}", direction);
+impl Build {
+    pub fn new() -> Self {
+        Self {
+            stages: vec![
+                "ingest signals",
+                "validate assumptions",
+                "model and reason",
+                "evaluate behavior",
+                "deploy with constraints",
+                "observe and iterate",
+            ],
+        }
+    }
 }
 ```
 
+---
+
 ## Stack
 
-**Languages**
+### Languages
 
-```
-├── Python        # daily companion
-├── Rust          # learning honesty
-├── SQL           # quiet backbone
-└── Bash          # necessary sharp edges
-```
-
-**Data**
-
-```
-├── MongoDB       # flexible, when structure bends
+```txt
+languages/
+├── Python        # experimentation and glue
+├── Rust          # correctness-first
+├── SQL           # durable truth
+└── Bash          # necessary friction
 ```
 
-**AI / ML**
+### Data
 
+```txt
+data/
+└── MongoDB       # flexible inputs, explicit boundaries
 ```
+
+### AI / ML
+
+```txt
 ml/
 ├── TensorFlow
 ├── Hugging Face
@@ -53,9 +74,9 @@ ml/
 └── LangChain / LangGraph
 ```
 
-**Systems & Infra**
+### Systems
 
-```
+```txt
 systems/
 ├── Docker
 ├── Git
@@ -63,33 +84,38 @@ systems/
 └── Cloud (GCP)
 ```
 
-**Interests**
+---
 
-```
-thinking/
-├── LLM evaluation & failure modes
-├── MLOps fundamentals
-├── system design clarity
-└── building things that survive contact with reality
+## Design Constraints
+
+```txt
+• correctness before cleverness
+• evaluation over intuition
+• cost-aware systems
+• abstractions that explain themselves
 ```
 
-## Easter Eggs
+---
+
+## Local Conventions
 
 ```bash
-# ~/.bashrc (selectively honest)
+# ~/.bashrc
 
-alias think="journalctl --since 'today' | grep insight"
-alias ship="git commit -m 'works on my machine' && git push"
-alias rustacean="cargo check && cargo clippy"
-alias thoughts="open https://x.com/lakshayknows"
+alias build="cargo check && reflect"
+alias lint="cargo clippy"
+alias ship="git commit -m 'intentional change' && git push"
+alias notes="echo 'simplicity is a feature'"
 ```
 
 ```txt
-# Things currently breaking (intentionally):
+Known breaking changes:
 - assumptions
 - over-engineered abstractions
-- the idea that learning should be linear
+- linear learning myths
 ```
+
+---
 
 ## Contact
 
@@ -99,13 +125,10 @@ alias thoughts="open https://x.com/lakshayknows"
   "email": "connect.lakshay@outlook.com",
   "linkedin": "linkedin.com/in/lakshayhanda",
   "x": "x.com/lakshayknows",
-  "status": "learning in public, building with intent"
+  "status": "learning in public, building carefully"
 }
 ```
 
----
-
-```
-Last login: $(date)
-lakshay@ai:~$ █
+```rust
+// build finished
 ```
